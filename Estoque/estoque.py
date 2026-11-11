@@ -14,10 +14,10 @@ estoque_minimo = 5
 
 #ficha produto
 print()
-print("Ficha do Produto")
+print("-------- FICHA DO PRODUTO --------")
 print("Código:", codigo)
-print("Nome:", nome)
+print("Produto:", nome)
 print("Preço: R$", preco)
-print("Quantidade em estoque:", quantidade)
+print("Quantidade em estoque:", quantidade, "unidade(s)")
 print("Estoque mínimo:", estoque_minimo)
-print("----------------------------------------")
+print("----------------------------------")
